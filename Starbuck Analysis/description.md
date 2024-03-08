@@ -28,3 +28,10 @@ Here is a description of the dataset used in this project:
 | Caffeine (mg)       | The amount of caffeine in milligrams                  |
 
 ## Conclusion
+Based on exploratory data analysis of the dataset, several important insights were discovered:
+
+1. **Beverage distribution:** Grouping several types of drinks at Starbucks, namely coffee, cappuccino, smoothies, hot chocolate and tea. In this section you will see the distribution of the highest sold drinks at Starbucks
+
+2. **Correlation of each ingredient:** There is a strong correlation with several ingredients such as calories and cholesterol and others. Strong correlation can indicate a good relationship between variables.
+
+In conclusion, this analysis provides valuable insight for Starbucks fans who want to buy Starbucks drinks based on the analysis information in the project above.
