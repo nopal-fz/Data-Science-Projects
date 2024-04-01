@@ -15,6 +15,15 @@ Welcome to my Data Science Project Repository! Here, you will find a collection 
    - **Description:** The project predicts the quality of the wine in the value 0 or 1. 1 for good quality and 0 for bad quality
    - **Technologies Use:** The notebooks uses logistic regression, random forest, decision tree and knn
    - **Results:** The random forest model performs the best with accuracy of 81.22%
+4. [Sentiment Analysis Ojol The Game](https://github.com/nopal-fz/Data-Science-Projects/tree/main/Sentiment%20Analysis%20Ojol%20The%20Game)
+   - **Description:** This project aims to analyze the existing reviews on Ojol the game on the Playstore whether they
+   are predominantly positive or negative reviews
+   - **Technologies Use:** the notebooks uses naive bayes MultinomialNB
+   - **Results:** The naive bayes multinomialNB model perform gave 88%
+6. [Customer Segmentation](https://github.com/nopal-fz/Data-Science-Projects/tree/main/Customer%20Segmentation)
+   - **Description:** The aim of this project is to perform clustering to identify group patterns that may exist between different occupations.
+   - **Technologies Use:** the notebooks uses k-means clustering
+   - **Result:** The k-means model use n_cluster 4 gave 0.54 silhoutte score
 
 # Feedback & contact
 I welcome any feedback, suggestions, or questions you may have about the projects. Feel free to reach out to me via email at naufalfaiznugraha2005@gmail.com
